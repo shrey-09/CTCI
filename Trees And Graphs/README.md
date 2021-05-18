@@ -1,6 +1,7 @@
-### Trees and Graphs
+## Trees and Graphs
 
-4.1 		    Route Between Nodes
+
+4.1         Route Between Nodes
 
 4.2 		    Minimal Tree
 
