@@ -12,6 +12,6 @@ Solutions for Cracking the Coding Interview.
 7. 	4.7 		Build Order
 8. 	4.8 		First Common Ancestor
 9. 	4.9 		BST Sequences
-10. 	4.10		Check Subtree
-11. 	4.11		Random Node
+10. 4.10		Check Subtree
+11. 4.11		Random Node
 12.	4.12		Paths With Sum
