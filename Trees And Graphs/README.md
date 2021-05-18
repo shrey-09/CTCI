@@ -1,6 +1,3 @@
-# CTCI
-Solutions for Cracking the Coding Interview.
-
 ### Trees and Graphs
 
 4.1 		    Route Between Nodes
